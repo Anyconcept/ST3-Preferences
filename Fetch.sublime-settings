@@ -1,0 +1,14 @@
+{
+	"files":
+	{
+		"Angular JS": "http://code.angularjs.org/1.2.6/angular.min.js",
+		"jquery": "http://code.jquery.com/jquery.min.js"
+	},
+	"packages":
+	{
+		"CakePHP": "https//github.com/cakephp/cakephp/zipball/master",
+		"CodeIgniter": "http://codeigniter.com/download.php",
+		"WordPress FR": "http://fr.wordpress.org/latest-fr_FR.zip",
+		"html5_boilerplate": "https://github.com/h5bp/html5-boilerplate/zipball/master"
+	}
+}

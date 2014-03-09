@@ -1,0 +1,19 @@
+[
+
+    {
+        "keys": ["super+ctrl+w"], "command": "wrap_as_you_type", "context": [
+            {
+                "operand": false, 
+                "operator": "equal", 
+                "match_all": true, 
+                "key": "setting.is_widget"
+            }, 
+            {
+                "match_all": true, 
+                "key": "emmet_action_enabled.wrap_as_you_type"
+            }
+        ]
+    }
+    
+
+]

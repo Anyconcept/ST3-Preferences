@@ -1,0 +1,29 @@
+{
+	"installed_packages":
+	[
+		"AdvancedNewFile",
+		"Alignment",
+		"All Autocomplete",
+		"AndyPHP",
+		"BracketHighlighter",
+		"CodeIgniter Snippets",
+		"ColorPicker",
+		"Compass",
+		"Emmet",
+		"FileZilla SFTP Import",
+		"HTML5",
+		"jQuery",
+		"Nettuts+ Fetch",
+		"Package Control",
+		"SCSS",
+		"SFTP",
+		"SideBarGit",
+		"SublimeCodeIntel",
+		"Theme - Spacegray",
+		"Tomorrow Color Schemes"
+	],
+	// "repositories":
+	// [
+	// 	"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
+	// ]
+}

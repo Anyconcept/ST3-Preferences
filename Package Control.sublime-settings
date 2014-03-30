@@ -20,10 +20,7 @@
 		"SideBarGit",
 		"SublimeCodeIntel",
 		"Theme - Spacegray",
-		"Tomorrow Color Schemes"
-	],
-	// "repositories":
-	// [
-	// 	"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
-	// ]
+		"Tomorrow Color Schemes",
+		"Wordpress"
+	]
 }

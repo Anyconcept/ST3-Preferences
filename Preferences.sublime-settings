@@ -1,7 +1,7 @@
 {
 	"auto_complete": true,
 	"bold_folder_labels": true,
-	"color_scheme": "Packages/User/Color/Custom.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"folder_exclude_patterns":
 	[
 		".svn",
@@ -16,8 +16,9 @@
 	"font_size": 13.0,
 	"ignored_packages":
 	[
+		"Vintage",
 		"SFTP",
-		"Vintage"
+		"CodeIgniter Snippets"
 	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 2,

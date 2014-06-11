@@ -5,6 +5,7 @@
 		"Alignment",
 		"All Autocomplete",
 		"AndyPHP",
+		"Blade Snippets",
 		"BracketHighlighter",
 		"CodeIgniter Snippets",
 		"ColorPicker",
@@ -13,7 +14,10 @@
 		"FileZilla SFTP Import",
 		"HTML5",
 		"jQuery",
+		"Laravel 4 Snippets",
+		"Laravel Blade Highlighter",
 		"Nettuts+ Fetch",
+		"Open Finder",
 		"Package Control",
 		"SCSS",
 		"SFTP",
@@ -21,9 +25,5 @@
 		"SublimeCodeIntel",
 		"Theme - Spacegray",
 		"Tomorrow Color Schemes"
-	],
-	// "repositories":
-	// [
-	// 	"https://raw.github.com/Grafikart/ST3-LiveReload/master/package.json"
-	// ]
+	]
 }

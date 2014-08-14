@@ -16,13 +16,15 @@
 	"font_size": 13.0,
 	"ignored_packages":
 	[
+		"CodeIgniter Snippets",
 		"Vintage",
-		"SFTP",
-		"CodeIgniter Snippets"
+		"SFTP"
 	],
 	"indent_to_bracket": true,
 	"line_padding_bottom": 2,
 	"line_padding_top": 2,
+	"open_files_in_new_window": false,
+	"tab_size": 4,	
 	"theme": "Spacegray.sublime-theme",
 	"word_wrap": true
 }
